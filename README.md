@@ -1,6 +1,6 @@
 # KPA Backend API Assignment
 
-This project was completed by **[Your Name Here]**.
+This project was completed by **[Yarram Koushik]**.
 
 ## Implemented APIs
 
